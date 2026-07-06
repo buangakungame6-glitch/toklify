@@ -1,0 +1,48 @@
+{
+  "name": "Toklify - TikTok Downloader HD",
+  "short_name": "Toklify",
+  "description": "Download TikTok videos without watermark in HD 1080p quality. Convert to MP3, save slideshows, fast, free, and no login required.",
+  "start_url": "/?utm_source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#08080d",
+  "theme_color": "#FE2C55",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": ["multimedia", "utilities", "productivity"],
+  "icons": [
+    {
+      "src": "/assets/img/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/img/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/img/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/img/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Download TikTok Video",
+      "short_name": "TikTok",
+      "description": "Open the TikTok downloader directly",
+      "url": "/?utm_source=pwa_shortcut",
+      "icons": [{ "src": "/assets/img/icons/android-chrome-192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}

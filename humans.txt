@@ -1,0 +1,13 @@
+/* TEAM */
+Founder & Lead Developer: Toklify Team
+Contact: hello[at]toklify.com
+Twitter: @toklify
+
+/* THANKS */
+Name: TikWM API
+URL: https://www.tikwm.com
+
+/* SITE */
+Standards: HTML5, CSS3, ES6
+Components: Font Awesome, Google Fonts
+Software: Cloudflare Pages
